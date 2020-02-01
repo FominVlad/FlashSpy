@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace FlashSpyCore.Models
+﻿namespace FlashSpyCore.Models
 {
     class Level
     {
